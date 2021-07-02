@@ -5,9 +5,9 @@
 <%
 int num = (int)(Math.random()*100);
 if (num>50)
-	out.println("number is above 50"+num);
+	out.println("number is above 50 and number ="+num);
 else
-	out.println("number is below 50"+num);
+	out.println("number is below 50 and number ="+num);
 
 %>
 </body>
